@@ -25,7 +25,7 @@ nav ul li {
 
 nav ul li a::before, nav ul li a::after{
     content: '';
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #353434;
     position: absolute;
     opacity: 0;
     transition: 0.4s;
